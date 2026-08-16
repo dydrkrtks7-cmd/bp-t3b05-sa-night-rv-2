@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deungchon-karaoke-note.hwagok-karaoke-insider.xyz/sitemap.xml
+Sitemap: https://deungchon-karaoke-note.hwagok-karaoke-insider.xyz/sitemap-pages.xml
